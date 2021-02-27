@@ -1,0 +1,7 @@
+base   structtitle
+author Frieder Schrempf
+email  dev@fris.de
+date   2021-02-27
+name   Struct Title Plugin
+desc   Use a struct data field as the page title
+url    https://github.com/fschrempf/dokuwiki-plugin-structtitle
